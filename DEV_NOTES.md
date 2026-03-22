@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Consolidated duplicate helper functions
 - Tidied up project structure
 - Addressed feedback from self code review
+
+## 2026-03-22
+- Updated license year
+- Added healthcheck endpoint stub
