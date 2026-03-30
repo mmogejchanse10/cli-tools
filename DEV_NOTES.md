@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Noted known limitation in docs
 - Drafted initial implementation plan for v2
+
+## 2026-03-30
+- Added CONTRIBUTING.md stub
+- Tested build on clean environment
+- Cross-checked behaviour against spec
