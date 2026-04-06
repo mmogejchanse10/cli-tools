@@ -20,3 +20,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Tested build on clean environment
 - Cross-checked behaviour against spec
+
+## 2026-04-06
+- Fixed off-by-one error in loop
+- Refactored module structure for clarity
